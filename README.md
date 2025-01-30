@@ -1,7 +1,16 @@
-set up website for economist stuff
-clone the spreadsheet for the nth time
+AI presentation for The Economist, January 2025
 
+## Me
 
+- Jonathan Soma
+- Knight Chair in Data Journalism, Columbia Journalism School
+- js4571@columbia.edu
+- [@dangerscarf](https://x.com/dangerscarf)
+- [jonathansoma.com](https://jonathansoma.com/)
+
+## The presentation
+
+[The presentation](Economist%20-%20AI.pdf)
 
 ## Structured data (spreadsheets)
 
